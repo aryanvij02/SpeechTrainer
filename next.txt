@@ -1,0 +1,13 @@
+- Add React Native speech to text
+- Add parameters to check if the question or response may be offensive - since this results in a error
+        https://ai.google.dev/tutorials/python_quickstart
+        response.prompt_feedback 
+
+-Add different drop downs for diff purposes
+    - Indiviudal speech
+    - Presentations
+    - Group
+    etctect
+    Each of these needs a unique prompt before the users text is passed into gemini
+
+Fix the damn UI
